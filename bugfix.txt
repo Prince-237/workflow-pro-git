@@ -1,0 +1,2 @@
+Toujours vérifier la branche actuel avant de faire des commits et push
+"git branch"
